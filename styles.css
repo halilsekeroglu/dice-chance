@@ -1,0 +1,70 @@
+body {
+  background-image: url("images/background3.jpeg");
+  background-repeat:no-repeat;
+}
+
+h1 {
+  margin: 50px;
+  font-family: 'Orbitron', sans-serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color:#000000;
+}
+
+
+button{
+  width:200px;
+  height: 50px;
+  display:block;
+  margin:100px auto 0;
+  border-radius: 15px;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 20px;
+  background:#12cad6;
+}
+
+
+p {
+  font-size: 3rem;
+  color:#D9AE96;
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+}
+
+img {
+  width: 70%;
+}
+
+footer {
+  margin: 60px auto 30px ;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+
+.copyright {
+  font-size: 15px;
+  color: #000000;
+
+}
+
+
+.footer-icon {
+  color: black;
+  margin:20px 10px 10px ;
+}
